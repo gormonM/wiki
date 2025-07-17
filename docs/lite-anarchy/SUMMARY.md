@@ -14,3 +14,7 @@
 - [Кланы](osnovnye-mekhaniki/clan.md)
 - [Осколочные яйца](osnovnye-mekhaniki/oskolok-iaitsa.md)
 - [Жители](osnovnye-mekhaniki/shiteli.md)
+- [Премиум статус](osnovnye-mekhaniki/premium-status.md)
+- [PvP Анархия](osnovnye-mekhaniki/pvp-anarchy.md)
+- [Рюкзак](osnovnye-mekhaniki/ryukzak.md)
+- [Титулы](osnovnye-mekhaniki/tituli.md)
