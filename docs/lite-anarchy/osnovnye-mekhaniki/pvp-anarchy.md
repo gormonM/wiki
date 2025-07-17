@@ -25,7 +25,7 @@
   ![Набор Toper](./assets/toper.jpg)
 
 \*Отличие набора toper от других в том, что в нем броня infinity  
-![шлем](./assets/shlem.jpg) ![нагрудник](./assets/sdaaw.jpg)
+![Шлем](./assets/shlem.jpg) ![Нагрудник](./assets/sdaaw.jpg)
 
 ![штаны](./assets/dews.jpg) ![ботинки](./assets/uyt.jpg)
 
