@@ -18,3 +18,4 @@
 - [PvP Анархия](osnovnye-mekhaniki/pvp-anarchy.md)
 - [Рюкзак](osnovnye-mekhaniki/ryukzak.md)
 - [Титулы](osnovnye-mekhaniki/tituli.md)
+- [Пвп дуэли](osnovnye-mekhaniki/pvp-duel.md)
