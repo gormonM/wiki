@@ -16,4 +16,4 @@
 
 Пример:
 
-![Титул](./assets/contributing/1222.jpg)
+![Титул](./assets/1222.jpg)

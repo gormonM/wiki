@@ -14,15 +14,15 @@
 
 - " NewBie ", стоимость 39 сапфиров ⇩
 
-  ![Набор NewBie](./assets/contributing/newbie.jpg)
+  ![Набор NewBie](./assets/newbie.jpg)
 
 - " Improved ", стоимость 55 сапфиров ⇩
 
-  ![Набор Improved](./assets/contributing/improved.jpg)
+  ![Набор Improved](./assets/improved.jpg)
 
 - " toper ", стоимость 77 сапфиров ⇩
 
-  ![Набор Toper](./assets/contributing/toper.jpg)
+  ![Набор Toper](./assets/toper.jpg)
 
 \*Отличие набора toper от других в том, что в нем броня infinity  
 ![шлем](./assets/shlem.jpg) ![нагрудник](./assets/sdaaw.jpg)
@@ -33,6 +33,6 @@
 
 Так же есть магазин расходников
 
-![магазин](./assets/contributing/magaz.jpg)
+![магазин](./assets/magaz.jpg)
 
 (все предметы из этого списка стоят не более 8 сапфиров )
