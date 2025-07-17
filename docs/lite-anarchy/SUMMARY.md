@@ -12,3 +12,5 @@
 - [Регионы](osnovnye-mekhaniki/regiony.md)
 - [Хранитель опыта (/expkeeper)](osnovnye-mekhaniki/khranitel-opyta.md)
 - [Кланы](osnovnye-mekhaniki/clan.md)
+- [Осколочные яйца](osnovnye-mekhaniki/oskolok-iaitsa.md)
+- [Жители](osnovnye-mekhaniki/shiteli.md)
