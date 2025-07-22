@@ -30,7 +30,7 @@
 - [Данжи](osnovnye-mekhaniki/danji.md)
 - [Голосование за ивент](osnovnye-mekhaniki/golosovanie.md)
 - [Груз](docs/lite-anarchy/osnovnye-mekhaniki/gruz.md)
-- [Трофейная охота. /hunt](docs/lite-anarchy/osnovnye-mekhaniki/hunt.md)
+- [Трофейная охота (/hunt)](docs/lite-anarchy/osnovnye-mekhaniki/hunt.md)
 - [Опытный Тыпо](docs/lite-anarchy/osnovnye-mekhaniki/opinti-tupo.md)
 - [Цветочная поляна](docs/lite-anarchy/osnovnye-mekhaniki/polyana.md)
 - [Посылка](docs/lite-anarchy/osnovnye-mekhaniki/posilka.md)
