@@ -18,7 +18,7 @@
 - [PvP Анархия](osnovnye-mekhaniki/pvp-anarchy.md)
 - [Рюкзак](osnovnye-mekhaniki/ryukzak.md)
 - [Титулы](osnovnye-mekhaniki/tituli.md)
-- [Дуэли. /pvp](osnovnye-mekhaniki/pvp-duel.md)
+- [Дуэли (/pvp)](osnovnye-mekhaniki/pvp-duel.md)
 - [Боевой пропуск](osnovnye-mekhaniki/boevoy-propusk.md)
 - [Скупщик](osnovnye-mekhaniki/skupshik.md)
 - [Сферы и Талисманы](osnovnye-mekhaniki/sferi-i-talismani.md)
