@@ -8,7 +8,7 @@
 
 - [Автошахта](osnovnye-mekhaniki/avtoshakhta.md)
 - [Биржа](osnovnye-mekhaniki/birzha.md)
-- [Взрывчатки. Кастомный динамит](osnovnye-mekhaniki/vzryvchatki.md)
+- [Кастомный динамит](osnovnye-mekhaniki/vzryvchatki.md)
 - [Регионы](osnovnye-mekhaniki/regiony.md)
 - [Хранитель опыта (/expkeeper)](osnovnye-mekhaniki/khranitel-opyta.md)
 - [Кланы](osnovnye-mekhaniki/clan.md)
