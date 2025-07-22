@@ -39,6 +39,6 @@
 - [Таинственный корабль](docs/lite-anarchy/osnovnye-mekhaniki/tainstveni-korabl.md)
 - [Уникальные данжи](docs/lite-anarchy/osnovnye-mekhaniki/uniq-dunge.md)
 - [Кастомные зачарования](docs/lite-anarchy/osnovnye-mekhaniki/zacharovaniya.md)
-- [Захват Энда](docs/lite-anarchy/osnovnye-mekhaniki/zahvat enda.md)
+- [Захват Энда](docs/lite-anarchy/osnovnye-mekhaniki/zahvat-enda.md)
 - [Замок. Нулевые координаты](docs/lite-anarchy/osnovnye-mekhaniki/zamok-nuli.md)
 - [Золотая лихорадка](docs/lite-anarchy/osnovnye-mekhaniki/zolotaya-lihoradka.md)
