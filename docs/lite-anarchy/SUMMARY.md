@@ -4,41 +4,45 @@
 
 - [Краткое описание](README.md)
 
-## Основные механики
+## Деньги и торговля
+
+- [Скупщик](osnovnye-mekhaniki/skupshik.md)
+- [Биржа](osnovnye-mekhaniki/birzha.md)
+- [Инвестиции](osnovnye-mekhaniki/investicii.md)
+- [Жители](osnovnye-mekhaniki/shiteli.md)
+
+## Фарм и добыча
 
 - [Автошахта](osnovnye-mekhaniki/avtoshakhta.md)
-- [Биржа](osnovnye-mekhaniki/birzha.md)
-- [Кастомный динамит](osnovnye-mekhaniki/vzryvchatki.md)
-- [Регионы](osnovnye-mekhaniki/regiony.md)
 - [Хранитель опыта (/expkeeper)](osnovnye-mekhaniki/khranitel-opyta.md)
-- [Кланы](osnovnye-mekhaniki/clan.md)
-- [Осколочные яйца](osnovnye-mekhaniki/oskolok-iaitsa.md)
-- [Жители](osnovnye-mekhaniki/shiteli.md)
-- [Премиум статус](osnovnye-mekhaniki/premium-status.md)
+
+## Приваты и взрывчатки
+
+- [Регионы](osnovnye-mekhaniki/regiony.md)
+- [Кастомный динамит](osnovnye-mekhaniki/vzryvchatki.md)
+
+## ПВП
+
+- [Пвп дуэли](osnovnye-mekhaniki/pvp-duel.md)
 - [PvP Анархия](osnovnye-mekhaniki/pvp-anarchy.md)
-- [Рюкзак](osnovnye-mekhaniki/ryukzak.md)
-- [Титулы](osnovnye-mekhaniki/tituli.md)
-- [Дуэли (/pvp)](osnovnye-mekhaniki/pvp-duel.md)
-- [Боевой пропуск](osnovnye-mekhaniki/boevoy-propusk.md)
-- [Скупщик](osnovnye-mekhaniki/skupshik.md)
 - [Сферы и Талисманы](osnovnye-mekhaniki/sferi-i-talismani.md)
-- [Инвестиции](osnovnye-mekhaniki/investicii.md)
-- [Кастомные предметы](osnovnye-mekhaniki/custom-predmeti.md)
+
+## Прокачка
+
+- [Боевой пропуск](osnovnye-mekhaniki/boevoy-propusk.md)
+- [Осколочные яйца](osnovnye-mekhaniki/oskolok-iaitsa.md)
+- [Титулы](osnovnye-mekhaniki/tituli.md)
+
+## Кланы и персонализация
+
+- [Кланы](osnovnye-mekhaniki/clan.md)
 - [Персонализация (/custom)](osnovnye-mekhaniki/personalizatsia-custom.md)
-- [Боссы](osnovnye-mekhaniki/boss.md)
-- [Контейнер](osnovnye-mekhaniki/container.md)
-- [Данжи](osnovnye-mekhaniki/danji.md)
-- [Голосование за ивент](osnovnye-mekhaniki/golosovanie.md)
-- [Груз](osnovnye-mekhaniki/gruz.md)
-- [Трофейная охота (/hunt)](osnovnye-mekhaniki/hunt.md)
-- [Опытный Тыпо](osnovnye-mekhaniki/opinti-tupo.md)
-- [Цветочная поляна](osnovnye-mekhaniki/polyana.md)
-- [Посылка](osnovnye-mekhaniki/posilka.md)
-- [Смертельная шахта](osnovnye-mekhaniki/smertelnaya-shahta.md)
-- [Сокровищницы](osnovnye-mekhaniki/sokrovishnici.md)
-- [Таинственный корабль](osnovnye-mekhaniki/tainstveni-korabl.md)
-- [Уникальные данжи](osnovnye-mekhaniki/uniq-dunge.md)
-- [Кастомные зачарования](osnovnye-mekhaniki/zacharovaniya.md)
-- [Захват Энда](osnovnye-mekhaniki/zahvat-enda.md)
-- [Замок. Нулевые координаты](osnovnye-mekhaniki/zamok-nuli.md)
-- [Золотая лихорадка](osnovnye-mekhaniki/zolotaya-lihoradka.md)
+
+## Предметы
+
+- [Кастомные предметы](osnovnye-mekhaniki/custom-predmeti.md)
+- [Рюкзак](osnovnye-mekhaniki/ryukzak.md)
+
+## Донат
+
+- [Премиум статус](osnovnye-mekhaniki/premium-status.md)
